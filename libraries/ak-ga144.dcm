@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0  Date: 10/20/2014 11:31:33 PM
+#
+$CMP GA144A12
+D GreenArrays GA144A12 Processor (Library (c)2014 by Aaron Kondziela, MIT License)
+K GA144,GA144A12,GreenArrays
+$ENDCMP
+#
+#End Doc Library
